@@ -1,0 +1,13 @@
+{
+  "name": "my-cool-api",
+  "version": "1.0.0",
+  "requires": [
+    "express"
+  ],
+  "files": [
+    {
+      "src": "src/server.js",
+      "dest": "/usr/lib/my-app/server.js"
+    }
+  ]
+}
